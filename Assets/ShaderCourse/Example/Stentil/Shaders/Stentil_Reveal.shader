@@ -124,8 +124,6 @@ Shader "ShaderCourse/Stentil_Reveal"
             {
                 v2f o;
                 UNITY_SETUP_INSTANCE_ID(v);
-                UNITY_INITIALIZE_OUTPUT(v2f, o);
-                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);
                 o.positionHCS = TransformObjectToHClip(v.vertex.xyz);
                 o.uv = v.uv;
                 o.normalWS = TransformObjectToWorldNormal(v.normal);
