@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShaderCourse_DepthPool_Water_Demo 1
+  m_Shader: {fileID: 4800000, guid: 64027ec5b0334e14fbbc535e208f5f1b, type: 3}
+  m_Parent: {fileID: 2100000, guid: 33626dd4836585c40b35c422873ac5d6, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 63f96c321c41cb04cab08beb13a69280, type: 3}
+        m_Scale: {x: 0.1, y: 0.1}
+        m_Offset: {x: 0, y: 0}
+    - _SurfaceDistortion:
+        m_Texture: {fileID: 2800000, guid: 5531e891cc96229419df99e4c39b9a07, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SurfaceNoise:
+        m_Texture: {fileID: 2800000, guid: eb1041fcbf38d674f8758e11193cbc9c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _EnableNormalMap: 1
+    - _NormalScale: 0.72
+    - _NormalSpeed: 0.01
+    - _NormalTiling: 0.1
+    - _SurfaceDistortionAmount: 0.874
+    - _SurfaceNoiseCutoff: 0.435
+    - _Transparency: 0.62
+    - _WaveFrequency: 2.6
+    - _WaveSecondaryFrequency: 4.3
+    m_Colors:
+    - _BaseColor: {r: 0.85, g: 0.97999996, b: 1, a: 1}
+    - _DeepColor: {r: 0.049999982, g: 0.21999997, b: 0.36999997, a: 1}
+    - _FoamColor: {r: 0.92, g: 0.97999996, b: 1, a: 0.95}
+    - _ShallowColor: {r: 0.33999997, g: 0.76, b: 0.92, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

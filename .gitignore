@@ -1,0 +1,63 @@
+# Unity
+Library/
+Temp/
+Logs/
+UserSettings/
+MemoryCaptures/
+Build/
+Builds/
+Assets/AssetStoreTools*
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.suo
+*.pidb
+*.booproj
+*.svd
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# Build results
+[Bb]uild/
+obj/
+bin/
+
+# NuGet
+packages/
+*.nupkg
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# dotnet
+.dotnet/
+
+# MCP
+MCP/
+.mcp.json
+
+# Cursor / Claude
+.cursor/
+.claude/
+
+# Misc
+*.tmp
+*.temp
+output/
+
+# Unity Packages - 只忽略 lock 文件，保留 manifest.json
+Packages/packages-lock.json

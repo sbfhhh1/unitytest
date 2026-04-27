@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "openclaw-unity-skill": {
+      "name": "Unity Skill",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=openclaw-unity-skill",
+      "source": "skillhub",
+      "version": "1.6.1"
+    },
+    "unity": {
+      "name": "Unity",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=unity",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "level-design-patterns": {
+      "name": "Unity Level Design Patterns skill.",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=level-design-patterns",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "game-developer-skill": {
+      "name": "Claude_Game_Developer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=game-developer-skill",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "game-designer-toolkit": {
+      "name": "Game Designer Toolkit",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=game-designer-toolkit",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "game-asset-generation": {
+      "name": "Game Asset Generation",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=game-asset-generation",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "game-cog": {
+      "name": "game-cog",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=game-cog",
+      "source": "skillhub",
+      "version": "1.0.3"
+    }
+  }
+}
