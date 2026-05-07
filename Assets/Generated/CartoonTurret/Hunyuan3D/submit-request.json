@@ -1,0 +1,9 @@
+﻿{
+    "face_count":  30000,
+    "enable_pbr":  true,
+    "prompt":  "A single cartoon tower defense cannon turret for a mobile game, compact chunky low-poly style, teal metal barrel, yellow orange armor panels, dark rubber base, simple bolts, clean stylized PBR, optimized for mobile game, upright object, no text.",
+    "enable_geometry":  true,
+    "model":  "hy-3d-3.1",
+    "generate_type":  "Normal",
+    "result_format":  "GLB"
+}

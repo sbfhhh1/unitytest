@@ -1,0 +1,14 @@
+﻿{
+    "model":  "gpt-image-2",
+    "messages":  [
+                     {
+                         "content":  [
+                                         {
+                                             "text":  "A single cartoon tower defense cannon turret for a mobile game, three-quarter isometric view, chunky rounded silhouette, compact low-poly friendly design, teal metal barrel, warm yellow-orange armor panels, dark rubber base, small bolts and simple readable shapes, stylized hand-painted game asset concept, isolated on pure white background, soft even studio lighting, single object only, no text, no watermark, no characters, no environment, no shadows",
+                                             "type":  "text"
+                                         }
+                                     ],
+                         "role":  "user"
+                     }
+                 ]
+}
